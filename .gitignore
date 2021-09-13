@@ -30,8 +30,5 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-#files
-/keys.js
-
 # vercel
 .vercel
