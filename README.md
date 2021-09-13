@@ -3,6 +3,10 @@
 This is a Google Clone made just as a demo, all rights go to official Google.
 This project is made using React and Next.js with the Google Search Api
 
+## Link to the Website
+
+- [Google Clone](https://google-clone-five-kohl.vercel.app/)
+
 ## Acknowledgements
 
 - [Where I made it from](https://www.youtube.com/watch?v=24xpTmaPOdY&list=WL&index=1)
