@@ -25,7 +25,8 @@ yarn-debug.log*
 yarn-error.log*
 
 #files
-keys.js
+/keys.js
+/next.config.js
 
 # local env files
 .env.local
