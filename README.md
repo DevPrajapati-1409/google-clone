@@ -5,7 +5,7 @@ This project is made using React and Next.js with the Google Search Api
 
 ## Link to the Website
 
-- [Google Clone](https://google-clone-five-kohl.vercel.app/)
+- [Google Clone](https://google-clone-devprajapati-1409.vercel.app/)
 
 ## Acknowledgements
 
